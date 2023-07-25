@@ -20,4 +20,3 @@ Install my-project with npm
 ## Screenshots
 
 ![App Screenshot](https://i.postimg.cc/MGTYsz4J/Capture-d-e-cran-2023-07-25-a-14-55-55.png)
-
