@@ -12,9 +12,6 @@
  HTML, CSS.
 
 
-## Installation
-
-Install my-project with npm
 
     
 ## Screenshots
